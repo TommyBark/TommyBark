@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Tomáš 👋
 
 <!--
 **TommyBark/TommyBark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-line-wordmark.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-line-wordmark.svg" title="PyTorch" alt="PyTorch" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-line-wordmark.svg" title="pandas" alt="pandas" width="30" height="30"/>&nbsp;
+<img src="https://raw.githubusercontent.com/TommyBark/TommyBark/main/icons/python-original-wordmark_light.svg#gh-dark-mode-only" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/TommyBark/TommyBark/main/icons/pandas-original-wordmark_light.svg#gh-dark-mode-only" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/TommyBark/TommyBark/main/icons/pytorch-plain-wordmark_light.svg#gh-dark-mode-only" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+
+
+<img src="https://raw.githubusercontent.com/TommyBark/TommyBark/main/icons/scikitlearn-line_light.svg" title="scikit" alt="scikit" width="40" height="40"/>&nbsp;
 -->
 
+- 🔭 Data Explorer and Model Tinkerer
+- 🧰 **Core Stack:** Python, Pandas, scikit-learn, LightGBM, PyTorch, Hugging Face LLM libraries
 
-
-
-- 🔭 Data Explorer and Tinkerer
 
 
