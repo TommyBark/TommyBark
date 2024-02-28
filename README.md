@@ -13,4 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-line-wordmark.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-line-wordmark.svg" title="PyTorch" alt="PyTorch" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-line-wordmark.svg" title="pandas" alt="pandas" width="30" height="30"/>&nbsp;
 -->
+
+
+
+
+- 🔭 Data Explorer and Tinkerer
+
+
