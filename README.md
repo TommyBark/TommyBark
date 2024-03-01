@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 - 🔭 Data Explorer and Model Tinkerer
 - 🔍 Interested in Artificial Intelligence & Machine Learning
 - 🧰 **Core Stack:** Python, Pandas/PySpark, scikit-learn, LightGBM, PyTorch, Hugging Face LLM libraries
-- 🔧 **Other Tools:** MLFlow, Git, Azure ML
+- 🔧 **Other Tools:** MLFlow/WandB, Git, Azure ML
 
 
