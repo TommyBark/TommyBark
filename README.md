@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/TommyBark/TommyBark/main/icons/scikitlearn-line_light.svg" title="scikit" alt="scikit" width="40" height="40"/>&nbsp;
 -->
 
-- 🔭 Data Explorer and Model Tinkerer
+- 🔭 Research Engineer
 - 🔍 Interested in Artificial Intelligence & Machine Learning
-- 🧰 **Core Stack:** Python, Pandas/PySpark, scikit-learn, LightGBM, PyTorch, Hugging Face LLM libraries
+- **Current Core Stack:** Python, Hugging Face LLM libraries, litellm
+- 🧰 **Archived Core Stack:** Python, Pandas/PySpark, scikit-learn, LightGBM, PyTorch, Hugging Face LLM libraries
 - 🔧 **Other Tools:** MLFlow/WandB, Git, Azure ML
 
 
